@@ -132,11 +132,7 @@ upload.controller('Load_Data_Controller', function($rootScope, $scope, $http, $l
                     // var URL_API_Load = 'https://hqmultimedia.github.io/Angular2026/admin/CrudDataController/get_data_box_trash';
                     var URL_API_Load = 'https://hqmultimedia.github.io/project-admin-panel/Data/data-trash-category.json';
                 }
-                if (page_data == 'baner') {
-                    // var URL_API_Load = 'https://hqmultimedia.github.io/Angular2026/admin/CrudDataController/get_data_box_trash';
-                    var URL_API_Load = 'https://hqmultimedia.github.io/project-admin-panel/Data/data-trash-baner.json';
-                }
-
+               
 
                 // "code cố định chỉ chỉnh sửa khi cần"
                 // Hàm lấy tổng số tin 
